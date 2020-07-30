@@ -1,2 +1,2 @@
 # SageMaker
-SageMaker tutorial
+AWS SageMaker create model
